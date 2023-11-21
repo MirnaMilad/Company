@@ -1,0 +1,24 @@
+G:\Route\MVC\Session 3\Demo\Demo.PL\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+G:\Route\MVC\Session 3\Demo\Demo.PL\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+G:\Route\MVC\Session 3\Demo\Demo.PL\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+G:\Route\MVC\Session 3\Demo\Demo.PL\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+G:\Route\MVC\Session 3\Demo\Demo.PL\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+G:\Route\MVC\Session 3\Demo\Demo.PL\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+G:\Route\MVC\Session 3\Demo\Demo.PL\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+G:\Route\MVC\Session 3\Demo\Demo.PL\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+G:\Route\MVC\Session 3\Demo\Demo.PL\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+G:\Route\MVC\Session 3\Demo\Demo.PL\Demo.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+G:\Route\MVC\Session 3\Demo\Demo.PL\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+G:\Route\MVC\Session 3\Demo\Demo.PL\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+G:\Route\MVC\Session 3\Demo\Mvc Demo Day04\Demo.PL\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+G:\Route\MVC\Session 3\Demo\Mvc Demo Day04\Demo.PL\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+G:\Route\MVC\Session 3\Demo\Mvc Demo Day04\Demo.PL\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+G:\Route\MVC\Session 3\Demo\Mvc Demo Day04\Demo.PL\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+G:\Route\MVC\Session 3\Demo\Mvc Demo Day04\Demo.PL\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+G:\Route\MVC\Session 3\Demo\Mvc Demo Day04\Demo.PL\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+G:\Route\MVC\Session 3\Demo\Mvc Demo Day04\Demo.PL\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+G:\Route\MVC\Session 3\Demo\Mvc Demo Day04\Demo.PL\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+G:\Route\MVC\Session 3\Demo\Mvc Demo Day04\Demo.PL\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+G:\Route\MVC\Session 3\Demo\Mvc Demo Day04\Demo.PL\Demo.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+G:\Route\MVC\Session 3\Demo\Mvc Demo Day04\Demo.PL\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+G:\Route\MVC\Session 3\Demo\Mvc Demo Day04\Demo.PL\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll

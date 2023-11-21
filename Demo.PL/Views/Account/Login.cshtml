@@ -1,0 +1,40 @@
+﻿@model LoginViewModel
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_AuthLayout.cshtml";
+}
+<div asp-validation-summary="All" class="text-danger"></div>
+<div class="main-agileinfo">
+	<div class="agileits-top">
+		<form asp-action="Login">
+			
+			<input asp-for="Email" placeholder="Your First Email">
+			<span asp-validation-for="Email" class="text-danger"></span>
+			<br />
+			<input asp-for="Password" placeholder="Your Password">
+			<span asp-validation-for="Password" class="text-danger"></span>
+			<br />
+
+			<div class="wthree-text">
+				<label class="anim">
+					<input asp-for="RememberMe" class="checkbox">
+					<span>Remember Me</span>
+				</label>
+				<div class="clear"> </div>
+			</div>
+			<input type="submit" value="SIGNIN">
+		</form>
+		<p>Don`t have an Account? <a asp-action="Register"> Signup Now!</a></p>
+		<a asp-action="ForgetPassword">Forget Password</a>
+	</div>
+</div>
+<!-- copyright -->
+<div class="colorlibcopy-agile">
+	<p>© 2018 Colorlib Signup Form. All rights reserved | Design by <a href="https://colorlib.com/" target="_blank">Colorlib</a></p>
+</div>
+
+@section ValidationScriptSection {
+		<partial name="_ValidationScriptsPartial"/>
+}
+
+
